@@ -1,0 +1,7 @@
+{
+  "name": "Suncare POG Lookup",
+  "description": "Mobile-first PWA for retail merchandisers to lookup suncare planograms, verify shelf positions, and scan products in Fred Meyer stores.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
